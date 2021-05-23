@@ -59,7 +59,8 @@ public class CustomeStack {
 		}
 	}
 	
-	public int peekGit() {
+	
+	public int peekBranchRequest() {
 		return 3;
 	}
 }
