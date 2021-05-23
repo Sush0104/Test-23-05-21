@@ -58,4 +58,8 @@ public class CustomeStack {
 			return top.data;
 		}
 	}
+	
+	public int peekGit() {
+		return 1;
+	}
 }
