@@ -60,6 +60,6 @@ public class CustomeStack {
 	}
 	
 	public int peekGit() {
-		return 1;
+		return 3;
 	}
 }
